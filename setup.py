@@ -8,6 +8,7 @@ setuptools.setup (
   author = 'minhe8564',
   author_email = 'minhe8564@gmail.com',
   url = "https://github.com/minhe8564/testoutput",
+  download_url = "https://github.com/minhe8564/testoutput/releases/tag/v0.0.1.zip",
   install_requires=[ 'pytest' ],
   long_description = 'oss-dev python module',
   long_description_content_type = 'text/markdown',
